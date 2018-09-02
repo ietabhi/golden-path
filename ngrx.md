@@ -15,6 +15,7 @@ install Angular Cli Globally
 
 ```
 ng new my-first-ngrx
+cd my-first-ngrx
 ng serve
 ```
 
